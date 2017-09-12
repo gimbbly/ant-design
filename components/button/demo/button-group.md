@@ -43,10 +43,10 @@ ReactDOM.render(
     <h4>With Icon</h4>
     <ButtonGroup>
       <Button type="primary">
-        <Icon type="left" />Go back
+        <Icon type="right" />Go back
       </Button>
       <Button type="primary">
-        Go forward<Icon type="right" />
+        Go forward<Icon type="left" />
       </Button>
     </ButtonGroup>
     <ButtonGroup>

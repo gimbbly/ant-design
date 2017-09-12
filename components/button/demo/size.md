@@ -45,10 +45,10 @@ class ButtonSize extends React.Component {
         <br />
         <Button.Group size={size}>
           <Button type="primary">
-            <Icon type="left" />Backward
+            <Icon type="right" />Backward
           </Button>
           <Button type="primary">
-            Forward<Icon type="right" />
+            Forward<Icon type="left" />
           </Button>
         </Button.Group>
       </div>
